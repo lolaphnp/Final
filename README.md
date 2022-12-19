@@ -160,7 +160,7 @@ There are 3 types of objects:
 
 The game is supposed to help you work on your arm when slicing the objects and to keep you acting by moving around to dodge the red blocks.
 
-## Deployment
+## Future Development
 
 The prototype is still in development. In the future, the game will have a leaderboard, calories and combo count for accuracy. The game will vary depends on the type of workout. Players will be able to link their Spotify to get to work out while listening to their favorite songs. They will also be able to invite friends for multiplayer mode to make it more competitive and fun!
 
