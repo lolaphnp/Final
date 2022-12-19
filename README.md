@@ -105,84 +105,66 @@ Frustrations:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+This prototype is created on Unity. In order to test the prototype, you will need:
 
 ```
-Give examples
+Device: Oculus Quest, laptop or computer
+Application: SideQuest
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Follow these steps to instal VR APK for Oculus Quest:
 
 ```
-Give the example
+Download the APK file
+```
+```
+Enable developer mode of Oculus Quest 2:
+instructions provided from [https://developer.oculus.com/documentation/native/android/mobil e-device-setup/](url)
+```
+```
+Download & Setup SideQuest from
+[https://sidequestvr.com/setup-howto](url)
+```
+```
+Turn on Oculus Quest 2 and SideQuest on PC, connect them with USB cable. Following prompt should emerge in your Oculus Quest 2, make sure you allow USB debugging.
+You should be able to see your device on top left corner of SideQuest. Click the button marked in red on the top toolbar of SideQuest will display all apps you installed on your device.
+```
+```
+Locate the APK file, click the button on the left of the minimize icon in the toolbar. Drag the APK file to SideQuest
+```
+```
+On your Oculus Quest, click the button-apps on your bottom tool bar
+```
+```
+Expand ALL on the top right corner of the new prompted interface, then select the option called Unknown Source.
+```
+```
+You will then see the application. Select it and test the prototype.
 ```
 
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+When the game starts, objects will fly towards you. 
 
-### Break down into end to end tests
+There are 3 types of objects:
+- Capsule with yellow ring (to be sliced by the left controller)
+- Capsule with blue ring (to be sliced by the right controller)
+- Red blocks (dodge)
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+The game is supposed to help you work on your arm when slicing the objects and to keep you acting by moving around to dodge the red blocks.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The prototype is still in development. In the future, the game will have a leaderboard, calories and combo count for accuracy. The game will vary depends on the type of workout. Players will be able to link their Spotify to get to work out while listening to their favorite songs. They will also be able to invite friends for multiplayer mode to make it more competitive and fun!
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to Valem on Youtube for the great tutorial 
+* Inspiration: Beat Saber
