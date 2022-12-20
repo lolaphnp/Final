@@ -153,6 +153,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 When the game starts, objects will fly towards you. 
 
+<img width="1440" alt="Screen Shot 2022-12-19 at 7 13 23 PM" src="https://user-images.githubusercontent.com/118086612/208552296-555416c5-e579-4d2a-8019-2c16f39e132b.png">
+
 There are 3 types of objects:
 - Capsule with yellow ring (to be sliced by the left controller)
 - Capsule with blue ring (to be sliced by the right controller)
