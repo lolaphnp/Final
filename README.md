@@ -160,11 +160,15 @@ There are 3 types of objects:
 - Capsule with blue ring (to be sliced by the right controller)
 - Red blocks (dodge)
 
-The game is supposed to help you work on your arm when slicing the objects and to keep you acting by moving around to dodge the red blocks.
+The game is supposed to help you work on your arm when slicing the objects and to keep you active by moving around to dodge the red blocks.
 
 ## Future Development
 
-The prototype is still in development. In the future, the game will have a leaderboard, calories and combo count for accuracy. The game will vary depends on the type of workout. Players will be able to link their Spotify to get to work out while listening to their favorite songs. They will also be able to invite friends for multiplayer mode to make it more competitive and fun!
+The prototype is still in development. In the future, the game will have a leaderboard, calories and combo count for accuracy. 
+
+![UI components-04](https://user-images.githubusercontent.com/118086612/208553505-97d824ea-f240-4b20-b60a-9f4a9b2787b8.png)
+
+The game will vary depends on the type of workout. Players will be able to link their Spotify to get to work out while listening to their favorite songs. They will also be able to invite friends for multiplayer mode to make it more competitive and fun!
 
 ## Acknowledgments
 
